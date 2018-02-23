@@ -77,6 +77,20 @@ captures/
 .idea/gradle.xml
 .idea/dictionaries
 .idea/libraries
+.idea/vcs.xml
+.idea/runConfigurations.xml
+.idea/libraries/
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+# Gradle:
+.idea/**/libraries
+
+
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.
@@ -134,8 +148,6 @@ $RECYCLE.BIN/
 
 # Gradle:
 .idea/**/gradle.xml
-.idea/**/libraries
-
 # CMake
 cmake-build-debug/
 cmake-build-release/
@@ -217,3 +229,4 @@ Temporary Items
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+/backup.gitignore.backup
